@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**JCV2021/JCV2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JCV2021
 
-Here are some ideas to get you started:
+Fitness & Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Sobre mí | About me
+
+### 👋 Hi, I'm Juan Carlos (JC)
+
+💻 Aspiring Web Developer  
+⚙️ Learning HTML, CSS, JavaScript, Git & GitHub  
+📐 Focused on clean code, structure, and continuous improvement  
+
+🧠 Background in fitness, physiology, and discipline-driven habits  
+🚀 Building projects step by step, with consistency and purpose.
+
+Creo en el proceso, no en la prisa.  
+En el cuerpo como maestro y en el código como lenguaje del orden.  
+
+Entreno movimiento, mente y ahora también lógica.  
+Cada línea de código es práctica.  
+Cada día, una oportunidad de ser un poco más consciente.
+
+🇪🇸  
+Aprendiendo desarrollo web frontend de forma autodidacta.  
+Aplico principios del entrenamiento físico —disciplina, constancia y proceso— al aprendizaje del código.
+
+🇺🇸  
+Self-taught frontend learner.  
+I apply training principles —discipline, consistency, and process— to learning how to build on the web.
+
+---
+
+### 💻 Tecnologías | Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Bootstrap  
+
+---
+
+### 🧘‍♂️ Filosofía | Philosophy
+
+> *La constancia supera a la motivación.*  
+> *Consistency beats motivation.*
+
+---
+
+### 📊 GitHub Stats
+
+![HTML5](…)
+![CSS3](…)
+![JavaScript](…)
+
+![Dev Skills](https://img.shields.io/badge/skills-Web%20Dev%20%7C%20Calistenia%20%7C%20Yoga-green)
+
+![Status](https://img.shields.io/badge/status-aventura%20continua-orange)
+![Learning](https://img.shields.io/badge/learning-never%20stops-purple)
+
+![Static Badge](https://img.shields.io/badge/-%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub)
