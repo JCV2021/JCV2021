@@ -65,7 +65,6 @@ I apply training principles —discipline, consistency, and process— to learni
 ![Static Badge](https://img.shields.io/badge/-%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub)
 
 ### :zap: Actividades Recientes 
-## 📌 Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
