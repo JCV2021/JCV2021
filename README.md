@@ -54,10 +54,10 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
+1. ✌️ Released [v0.1.0](https://github.com/JCV2021/RlsTercerRepo/releases/tag/v0.1.0) in [JCV2021/RlsTercerRepo](https://github.com/JCV2021/RlsTercerRepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [JCV2021/RlsTercerRepo](https://github.com/JCV2021/RlsTercerRepo)<br>
 3. ⬆️ Pushed undefined commit(s) to [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
-4. 💪 Opened PR [#3](undefined) in [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
+4. ⬆️ Pushed undefined commit(s) to [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
 5. ⬆️ Pushed undefined commit(s) to [JCV2021/miCuartaRepo](https://github.com/JCV2021/miCuartaRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
