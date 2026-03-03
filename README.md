@@ -54,10 +54,10 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
-2. ⭐ Starred [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
-3. 🔱 Forked [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga) from [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
-4. ⬆️ Pushed undefined commit(s) to [JCV2021/Curso-GitHub-Action](https://github.com/JCV2021/Curso-GitHub-Action)<br>
+1. ⬆️ Pushed undefined commit(s) to [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
+2. ⭐ Starred [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
+3. ⭐ Starred [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
+4. 🔱 Forked [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga) from [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
 5. ⬆️ Pushed undefined commit(s) to [JCV2021/Curso-GitHub-Action](https://github.com/JCV2021/Curso-GitHub-Action)<br>
 <!--RECENT_ACTIVITY:end-->
 
