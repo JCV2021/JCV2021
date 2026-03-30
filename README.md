@@ -55,9 +55,6 @@ I apply training principles —discipline, consistency, and process— to learni
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
-2. ⭐ Starred [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
-3. ⭐ Starred [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
-4. 🔱 Forked [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga) from [JuanJTorres11/juice-shop-ga](https://github.com/JuanJTorres11/juice-shop-ga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
