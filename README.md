@@ -54,7 +54,6 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JCV2021/juice-shop-ga](https://github.com/JCV2021/juice-shop-ga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
