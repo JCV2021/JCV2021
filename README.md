@@ -56,9 +56,9 @@ I apply training principles —discipline, consistency, and process— to learni
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
 2. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
-3. ⭐ Starred [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
-4. 🔱 Forked [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament) from [platzi/supabase-fundamentos](https://github.com/platzi/supabase-fundamentos)<br>
-5. ⭐ Starred [platzi/supabase-fundamentos](https://github.com/platzi/supabase-fundamentos)<br>
+3. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
+4. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
+5. ⭐ Starred [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
