@@ -54,8 +54,8 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
-2. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
+1. ⭐ Starred [betolix/supabase-fundamentos](https://github.com/betolix/supabase-fundamentos)<br>
+2. 🔱 Forked [JCV2021/curso-fundamentos-llms](https://github.com/JCV2021/curso-fundamentos-llms) from [platzi/curso-fundamentos-llms](https://github.com/platzi/curso-fundamentos-llms)<br>
 3. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
 4. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
 5. ⬆️ Pushed undefined commit(s) to [JCV2021/supabase-fundament](https://github.com/JCV2021/supabase-fundament)<br>
