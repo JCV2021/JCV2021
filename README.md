@@ -56,8 +56,6 @@ I apply training principles —discipline, consistency, and process— to learni
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [JCV2021/gstackk](https://github.com/JCV2021/gstackk) from [garrytan/gstack](https://github.com/garrytan/gstack)<br>
 2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-3. ⭐ Starred [betolix/supabase-fundamentos](https://github.com/betolix/supabase-fundamentos)<br>
-4. 🔱 Forked [JCV2021/curso-fundamentos-llms](https://github.com/JCV2021/curso-fundamentos-llms) from [platzi/curso-fundamentos-llms](https://github.com/platzi/curso-fundamentos-llms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
