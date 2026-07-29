@@ -54,7 +54,6 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JCV2021/gstackk](https://github.com/JCV2021/gstackk) from [garrytan/gstack](https://github.com/garrytan/gstack)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
