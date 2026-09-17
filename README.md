@@ -54,6 +54,8 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [JCV2021/spec-kit001](https://github.com/JCV2021/spec-kit001)<br>
+2. 🔱 Forked [JCV2021/spec-kit001](https://github.com/JCV2021/spec-kit001) from [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
