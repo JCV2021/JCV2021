@@ -54,8 +54,11 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JCV2021/spec-kit001](https://github.com/JCV2021/spec-kit001)<br>
-2. 🔱 Forked [JCV2021/spec-kit001](https://github.com/JCV2021/spec-kit001) from [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [betolix/h3llo.io](https://github.com/betolix/h3llo.io)<br>
+2. ⭐ Starred [betolix/notesapp](https://github.com/betolix/notesapp)<br>
+3. 🔱 Forked [DigitalNomad26/spec-kit](https://github.com/DigitalNomad26/spec-kit) from [github/spec-kit](https://github.com/github/spec-kit)<br>
+4. ⭐ Starred [google-research/timesfm](https://github.com/google-research/timesfm)<br>
+5. ⭐ Starred [JCV2021/spec-kit001](https://github.com/JCV2021/spec-kit001)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
