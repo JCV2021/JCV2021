@@ -54,11 +54,11 @@ I apply training principles —discipline, consistency, and process— to learni
 ## 📊 Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JCV2021/timesfm](https://github.com/JCV2021/timesfm) from [google-research/timesfm](https://github.com/google-research/timesfm)<br>
-2. ⭐ Starred [betolix/h3llo.io](https://github.com/betolix/h3llo.io)<br>
-3. ⭐ Starred [betolix/notesapp](https://github.com/betolix/notesapp)<br>
-4. 🔱 Forked [DigitalNomad26/spec-kit](https://github.com/DigitalNomad26/spec-kit) from [github/spec-kit](https://github.com/github/spec-kit)<br>
-5. ⭐ Starred [google-research/timesfm](https://github.com/google-research/timesfm)<br>
+1. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
+2. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
+3. 🔱 Forked [JCV2021/timesfm](https://github.com/JCV2021/timesfm) from [google-research/timesfm](https://github.com/google-research/timesfm)<br>
+4. ⭐ Starred [betolix/h3llo.io](https://github.com/betolix/h3llo.io)<br>
+5. ⭐ Starred [betolix/notesapp](https://github.com/betolix/notesapp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
