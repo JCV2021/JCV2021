@@ -56,9 +56,9 @@ I apply training principles —discipline, consistency, and process— to learni
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
 2. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
-3. 🔱 Forked [JCV2021/timesfm](https://github.com/JCV2021/timesfm) from [google-research/timesfm](https://github.com/google-research/timesfm)<br>
-4. ⭐ Starred [betolix/h3llo.io](https://github.com/betolix/h3llo.io)<br>
-5. ⭐ Starred [betolix/notesapp](https://github.com/betolix/notesapp)<br>
+3. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
+4. 🔱 Forked [JCV2021/timesfm](https://github.com/JCV2021/timesfm) from [google-research/timesfm](https://github.com/google-research/timesfm)<br>
+5. ⭐ Starred [betolix/h3llo.io](https://github.com/betolix/h3llo.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
