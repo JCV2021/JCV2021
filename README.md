@@ -55,10 +55,10 @@ I apply training principles —discipline, consistency, and process— to learni
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
-2. ⬆️ Pushed undefined commit(s) to [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
-3. ❗️ Opened issue [#45](https://github.com/JCV2021/finance-app/issues/45) in [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
-4. ❗️ Opened issue [#44](https://github.com/JCV2021/finance-app/issues/44) in [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
-5. ❗️ Opened issue [#43](https://github.com/JCV2021/finance-app/issues/43) in [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
+2. ⬆️ Pushed undefined commit(s) to [JCV2021/JC_web](https://github.com/JCV2021/JC_web)<br>
+3. ⬆️ Pushed undefined commit(s) to [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
+4. ❗️ Opened issue [#45](https://github.com/JCV2021/finance-app/issues/45) in [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
+5. ❗️ Opened issue [#44](https://github.com/JCV2021/finance-app/issues/44) in [JCV2021/finance-app](https://github.com/JCV2021/finance-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
